@@ -1,9 +1,9 @@
 All documentation for the workshop is best viewed from the github.io pages
 
-[Documentation](https://ucdavis-bioinformatics-training.github.io/2023-May-Introduction-to-the-Command-Line-for-Bioinformatics/)
+[Documentation](https://ucdavis-bioinformatics-training.github.io/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics/)
 
 Introduction to the Command Line for Bioinformatics  
-May 15, 17, 19 2023, 2 p.m. - 5 p.m.  
+Sept 11th, 13th, 15th 2023, 2 p.m. - 5 p.m.  
 Organizer - Bioinformatics Core  
 Contact - UC Davis Bioinformatics Core, training.bioinformatics@ucdavis.edu
 

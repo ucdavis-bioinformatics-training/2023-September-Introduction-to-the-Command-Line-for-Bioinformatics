@@ -33,8 +33,8 @@ navigation:
     url: cli/extra
   - title: BashCrawl
     url: https://github.com/mks22-dw/bashcrawl
-  - title: Challenge & Homework Solutions
-    url: cli/solutions
+  #- title: Challenge & Homework Solutions
+  #  url: cli/solutions
 
   - heading: Software Installation
   - title: Installation using make and cmake
@@ -44,6 +44,6 @@ navigation:
 
   - heading: ETC
   - title: Github page
-    url: https://github.com/ucdavis-bioinformatics-training/2023-May-Introduction-to-the-Command-Line-for-Bioinformatics
+    url: https://github.com/ucdavis-bioinformatics-training/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics
   - title: Biocore website
     url: http://bioinformatics.ucdavis.edu
