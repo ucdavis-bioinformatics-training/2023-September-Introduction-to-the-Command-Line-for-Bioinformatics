@@ -138,4 +138,4 @@ The "samtools view" command converts it to an uncompressed BAM file, which feeds
 HOMEWORKS
 ----------
 
-cat region.bed | while read line; do START=`echo -n $line | cut -d' ' -f2`; END=`echo -n $line | cut -d' ' -f3`; LEN=`expr $END - $START`; echo $LEN; done
+cat region.bed | while read line; do START=`echo -n "$line" | cut -d' ' -f2`; END=`echo -n "$line" | cut -d' ' -f3`; LEN=`expr $END - $START`; echo $LEN; done
